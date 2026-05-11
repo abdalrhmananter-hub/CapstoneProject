@@ -11,6 +11,6 @@ export const Router = createBrowserRouter ([
     { element:<Sign/> , index:true }, // Renders at root URL
     { /* path:"home", element:<Home/> */ },
    ]
- }
+ },
 ])
  
