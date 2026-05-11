@@ -1,6 +1,6 @@
 import { Outlet } from "react-router-dom"
 import { Header } from "../Shared/Header"
-import NavBar from "../Shared/NavBar"
+import NavBar from "../Shared/NavBar/NavBar"
 import { Footer } from "../Shared/Footer"
 import { AuthProvider } from "../Context/AuthContext"  // Import AuthContext
 
