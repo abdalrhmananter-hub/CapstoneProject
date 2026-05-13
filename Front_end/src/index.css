@@ -1,0 +1,9 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+:root{
+--Pcolor: #064E3B;
+--bg-light-bg: #ECFDF5;
+--text-color: #57534E;
+}
