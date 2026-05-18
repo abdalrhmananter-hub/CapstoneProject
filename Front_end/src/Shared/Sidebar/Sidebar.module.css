@@ -1,0 +1,10 @@
+.profileBackground {
+    width: 70px;
+    height: 60px;
+    background-size: cover;
+    background-position: center;
+}
+
+.navigationTabs {
+    max-width: 50%;
+}

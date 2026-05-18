@@ -1,0 +1,34 @@
+.profileBackground {
+    width: 48px;
+    height: 48px;
+    background-size: cover;
+    background-position: center;
+} 
+
+.logoImage {
+    max-width: 256px;
+    height: auto;
+}
+
+.searchBar {
+    max-width: 384px;
+}
+
+.searchBar input {
+    padding-left: 2.5rem;
+    padding-right: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.navigationTabs {
+    transition: all 0.3 ease;
+}
+
+.navLinkText {
+    font-size: 11px;
+}
+
+.NavLinkIcons {
+    font-size: 1.25rem;
+}
